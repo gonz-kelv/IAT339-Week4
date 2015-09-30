@@ -14,7 +14,6 @@
 body {
   font-family: "Nexa Light";
   background-color: #D9CBBF;
-  padding: 2rem;
 }
 
 section:not([id]) {
