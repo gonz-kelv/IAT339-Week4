@@ -97,6 +97,7 @@ section code {
 .text-heading{
   font-family: "Nexa Bold";
   color: #000;
+  font-size: 1.5em;
 }
 
 p{
@@ -116,6 +117,7 @@ p{
 
 .navigation-menu ul li{
   font-family: "Nexa Bold";
+  font-size: 1.5em;
   display: inline;
   padding: 2em;
 }
